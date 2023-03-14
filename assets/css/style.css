@@ -165,7 +165,19 @@ menuitem span {
 /*--------------------------------------Projects */
 
 .project-section {
-    
+    padding: 2rem;
+    border-top: 2px solid black;
+    background-color: #525252;
+}
+
+.project-heading {
+    color: #fff;
+}
+
+#filmFlix {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
 }
 
 /*--------------------------------------Footer */
