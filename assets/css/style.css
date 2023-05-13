@@ -180,6 +180,10 @@ menuitem span {
     padding: 2rem;
 }
 
+#col-sm-4 {
+    padding: 20px;
+}
+
 /*--------------------------------------Footer */
 
 footer {
